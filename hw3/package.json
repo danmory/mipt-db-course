@@ -1,0 +1,17 @@
+{
+  "name": "hw3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "script": "node index.js",
+    "script_cluster": "node index_cluster.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^4.6.13"
+  }
+}
